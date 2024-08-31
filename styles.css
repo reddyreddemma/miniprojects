@@ -1,0 +1,25 @@
+body {
+    color: black;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+
+button {
+    color: black;
+    background-color: aqua;
+    padding: 10px 20px;
+    margin: 10px;
+    font-size: 16px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    padding: 10px;
+    font-size: 18px;
+    border-bottom: 1px solid #ccc;
+}
